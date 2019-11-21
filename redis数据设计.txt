@@ -1,0 +1,30 @@
+
+1, 记录所有的函数集合,采用链表
+
+>rpush fileNames '{"serviceName":"a1", "fileName":"com.demo.A.java", "fileNames":["f1","f2"]}'
+
+>rpush fileNames '{"serviceName":"a2","fileName":"com.demo.B.java", "fileNames":["b1","b2"]}'
+
+
+>lrange fileNames 0 -1
+
+{"serviceName":"a1","fileName":"com.demo.A.java", "fileNames":["f1","f2"]}
+{"serviceName":"a2","fileName":"com.demo.B.java", "fileNames":["b1","b2"]}
+
+删除链表记录：
+
+2, 写入Set,避免重复写入记录
+
+sadd fileNames '{"serviceName":"a1", "fileName":"com.demo.A.java", "fileNames":["f1","f2"]}'
+
+smembers 'STAT:function' 
+
+
+
+
+
+
+
+git reset --hard 7785770c359544d013aacb66eaf2ff5e95f0a882
+
+

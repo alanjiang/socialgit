@@ -1,0 +1,14 @@
+[
+   {
+     "name":"valuekanban", "folder":"/usr/local/git/kanban/valuekanban"
+   },
+   
+   {
+     "name":"valuesocializing", "folder":"/usr/local/git/kanban/valuesocializing"
+   },
+   
+   {
+     "name":"eos", "folder":"/usr/local/git/kanban/eos"
+   }
+
+]

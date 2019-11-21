@@ -1,0 +1,50 @@
+ {"result":0,"resultValue":[
+ {"id":"16e14643658c42b4a99f72f3689c3e17","name":"同步服务","orgId":"771ac1a5-fca5-4af2-b744-27b16e989b18","containerId":"91685554d37840a6b0aed75bf74e1204","vutId":"1d71d5604d19487cb6f896def2da460d","created":"2019-10-22T07:38:00.558+0000","tags":[],"currentStatusId":"9a2b28cc663c45eba5f1b9a08fa03be4","currentStepId":"5424b906dc1f47958957f87280da82a5","currentStreamId":"a9904306-7482-4619-8c78-8665fe4479e5","displayCode":"9203","state":"InProgress","linkValues":{"771ac 1a5-fca5-4af2-b744-27b16e989b18-linkCreator":[{"linkId":"e7d91b99a2b14e58903d1dd1d7e937eb","opponentId":"3c186020aaa1442699d002dff4f79f67","opponentPosition":"dest"}]},
+ "customFields":[
+ {"id":"9508a88a81ce43518b5bb95db849fc37","name":"repository","value":"git@bitbucket.org:agileancn/valuekanban.git"},
+ {"id":"6d212d5ba8fc47f6b615ec80bc605ed7","name":"路径"," value":"nsync-server"}]
+ },
+ {"id":"c4f0e1ec8b2b4cc3b4e8db2d585de63b","name ":"主服务","orgId":"771ac1a5-fca5-4af2-b744-27b16e989b18","containerId": "91685554d37840a6b0aed75bf74e1204","vutId":"1d71d5604d19487cb6f896def2da460d","created":"2019-10-22T07:32:32.357+0000","tags":[],"currentStatu sId":"9a2b28cc663c45eba5f1b9a08fa03be4","currentStepId":"5424b906dc1f47958957f87280da82a5","currentStreamId":"a9904306-7482-4619-8c78-8665fe4479e5","displayCode":"9197","state":"InProgress","linkValues":{"771ac1a5-fca5-4af2-b744-27b16e989b18-linkCreator":[{"linkId":"af75a271d995458f88b5d49c0decfbad","opponentId":"3c186020aaa1442699d002dff4f79f67","opponentPosition":"dest"}]},
+ "customFields":[
+ {"id":"9508a88a81ce43518b5bb95db849fc37","name":"repository","value":"git@bitbucket.org:agileancn/valuekanban.git"},
+ {"id":"6d212d5ba8fc47f6b615ec80bc605ed7","name":"路径","val ue":"server"}]
+ },
+ {"id":"4ad92e0caf1549e6a19eba20e8f939c8","name":"视图服务","orgId":"771ac1a5-fca5-4af2-b744-27b16e989b18","containerId":"91685554d37840a6b0aed75bf74e1204","vutId":"1d71d5604d19487cb6f896def2da460d"," created":"2019-10-22T07:37:10.740+0000","tags":[],"currentStatusId":"9a 2b28cc663c45eba5f1b9a08fa03be4","currentStepId":"5424b906dc1f47958957f87280da82a5","currentStreamId":"a9904306-7482-4619-8c78-8665fe4479e5","displayCode":"9200","state":"InProgress","linkValues":{"771ac1a5-fca5-4af2-b744-27b16e989b18-linkCreator":[{"linkId":"3ee04c4c2f86429f9813fb904253ce02","opponentId":"3c186020aaa1442699d002dff4f79f67","opponentPosition":"dest"}]},
+ "customFields":[
+ {"id":"9508a88a81ce43518b5bb95db849fc37" ,"name":"repository","value":"git@bitbucket.org:agileancn/valuekanban.git"},
+ {"id":"6d212d5ba8fc47f6b615ec80bc605ed7","name":"路径","value":"view-server"}
+ ]
+ },
+ 
+ {"id":"513aea5dc68a494fa2005d8addb23c98","name":"schema"," orgId":"771ac1a5-fca5-4af2-b744-27b16e989b18","containerId":"91685554d37840a6b0aed75bf74e1204","vutId":"1d71d5604d19487cb6f896def2da460d","created":"2019-10-22T07:36:49.588+0000","tags":[],"currentStatusId":"9a2b28cc663c45eba5f1b9a08fa03be4","currentStepId":"5424b906dc1f47958957f87280da82a5","currentStreamId":"a9904306-7482-4619-8c78-8665fe4479e5","displayCode":"9199","state":"InProgress","linkValues":{"771ac1a5-fca5-4af2-b744-27b16e989b18-linkCreator":[{"linkId":"efb47bea058c4d6db7bd7a93b4035a39","opponentId":"3c186020aaa1442699d002dff4f79f67","opponentPosition ":"dest"}]},
+ "customFields":[
+ {"id":"9508a88a81ce43518b5bb95db849fc37","name":"repository","value":"git@bitbucket.org:agileancn/valuekanban.git" },
+ {"id":"6d212d5ba8fc47f6b615ec80bc605ed7","name":"路径","value":"schema-server"}
+ ]
+ },
+ {"id":"1e317112ea784bf492cbf1f196f86a1d","name":"opanapi"," orgId":"771ac1a5-fca5-4af2-b744-27b16e989b18","containerId":"91685554d37840a6b0aed75bf74e1204","vutId":"1d71d5604d19487cb6f896def2da460d","created":"2019-10-22T07:38:18.316+0000","tags":[],"currentStatusId":"9a2b28cc663c45eba5f1b9a08fa03be4","currentStepId":"5424b906dc1f47958957f87280da82a5","currentStreamId":"a9904306-7482-4619-8c78-8665fe4479e5","displayCode":"9204","state":"InProgress","linkValues":{"771ac1a5-fca5-4af2-b744-27b16e989b18-linkCreator":[{"linkId":"4f184f6ab4fc403e83170ac7526edcda","opponentId":"3c186020aaa1442699d002dff4f79f67","opponentPosition ":"dest"}]},
+ 
+ "customFields":[
+ {"id":"9508a88a81ce43518b5bb95db849fc37","name":"repository","value":"git@bitbucket.org:agileancn/valuekanban.git" },
+ {"id":"6d212d5ba8fc47f6b615ec80bc605ed7","name":"路径","value":"open-api"}
+ ]
+ },
+ {"id":"53e53e6b1a5a42f5aef0c5fa3554eb1f","name":"卡服务","orgId": "771ac1a5-fca5-4af2-b744-27b16e989b18","containerId":"91685554d37840a6b0aed75bf74e1204","vutId":"1d71d5604d19487cb6f896def2da460d","created":" 2019-10-22T07:35:19.614+0000","tags":[],"currentStatusId":"9a2b28cc663c45eba5f1b9a08fa03be4","currentStepId":"5424b906dc1f47958957f87280da82a5 ","currentStreamId":"a9904306-7482-4619-8c78-8665fe4479e5","displayCode ":"9198","state":"InProgress","linkValues":{"771ac1a5-fca5-4af2-b744-27 b16e989b18-linkCreator":[{"linkId":"6b040d8a794d46c99ba8d5af0b2609ff","opponentId":"3c186020aaa1442699d002dff4f79f67","opponentPosition":"dest "}]},
+ 
+ "customFields":[
+ {"id":"9508a88a81ce43518b5bb95db849fc37","name":"repository","value":"git@bitbucket.org:agileancn/valuekanban.git"},
+ {"id" :"6d212d5ba8fc47f6b615ec80bc605ed7","name":"路径","value":"value-unit-se rver"}
+ ]
+ },
+ {"id":"7a1b69c74b0741e282af724069ed30a3","name":"rbac","orgId" :"771ac1a5-fca5-4af2-b744-27b16e989b18","containerId":"91685554d37840a6b0aed75bf74e1204","vutId":"1d71d5604d19487cb6f896def2da460d","created": "2019-10-22T07:37:19.843+0000","tags":[],"currentStatusId":"9a2b28cc663c45eba5f1b9a08fa03be4","currentStepId":"5424b906dc1f47958957f87280da82a5","currentStreamId":"a9904306-7482-4619-8c78-8665fe4479e5","displayCod e":"9201","state":"InProgress","linkValues":{"771ac1a5-fca5-4af2-b744-27b16e989b18-linkCreator":[{"linkId":"36769d59617d4f2c9abe247b93b7d418", "opponentId":"3c186020aaa1442699d002dff4f79f67","opponentPosition":"des t"}]},
+ "customFields":[
+ {"id":"9508a88a81ce43518b5bb95db849fc37","name":"repository","value":"git@bitbucket.org:agileancn/valuekanban.git"},
+ {"id ":"6d212d5ba8fc47f6b615ec80bc605ed7","name":"路径","value":"agilean-rbac -server"}
+ ]
+ },
+ { "id":"3411586bf5a74ef98b941568dc763ecc","name":"统计服务","orgId":"771ac1a5-fca5-4af2-b744-27b16e989b18","containerId":"91685554d37 840a6b0aed75bf74e1204","vutId":"1d71d5604d19487cb6f896def2da460d","crea ted":"2019-10-22T07:37:45.074+0000","tags":[],"currentStatusId":"9a2b28cc663c45eba5f1b9a08fa03be4","currentStepId":"5424b906dc1f47958957f87280 da82a5","currentStreamId":"a9904306-7482-4619-8c78-8665fe4479e5","displayCode":"9202","state":"InProgress","linkValues":{"771ac1a5-fca5-4af2-b 744-27b16e989b18-linkCreator":[{"linkId":"7fcd830520764c10b8266ae79ebdd e38","opponentId":"3c186020aaa1442699d002dff4f79f67","opponentPosition" :"dest"}]},
+   "customFields":[
+   {"id":"9508a88a81ce43518b5bb95db849fc37","name":"repository","value":"git@bitbucket.org:agileancn/valuekanban.git"} ,
+   {"id":"6d212d5ba8fc47f6b615ec80bc605ed7","name":"路径","value":"nstats-server"}]}
+ ]
+ }
